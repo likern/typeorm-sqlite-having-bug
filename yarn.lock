@@ -1116,6 +1116,11 @@
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.4.tgz#38fd73ddfd9b55abb1e1b2ed578cb55bd7b7d339"
   integrity sha512-8+KAKzEvSUdeo+kmqnKrqgeE+LcA0tjYWFY7RPProVYwnqDjukzO+3b6dLD56rYX5TdWejnEOLJYOIeh4CXKuA==
 
+"@types/react-native-sqlite-storage@^3.3.2":
+  version "3.3.2"
+  resolved "https://registry.yarnpkg.com/@types/react-native-sqlite-storage/-/react-native-sqlite-storage-3.3.2.tgz#d5372c8e766995ba7f521f53f4c5a5ee40790da9"
+  integrity sha512-LzRrAidwgOVql64I3XU+jQ+SO09P/UF8mZOiy4qGw9uyWMxIC/3+i9EYPEfGfw0OqIJ5YpQCha9Gjiq3pWticA==
+
 "@types/stack-utils@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
@@ -5533,6 +5538,11 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.12.0.tgz#2cc0fe0fba742d97fd527c42a13bec4eeb06241c"
   integrity sha512-rPCkf/mWBtKc97aLL9/txD8DZdemK0vkA3JMLShjlJB3Pj3s+lpf1KaBzMfQrAmhMQB0n1cU/SUGgKKBCe837Q==
+
+react-native-sqlite-storage@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/react-native-sqlite-storage/-/react-native-sqlite-storage-4.1.0.tgz#641780eef06bc90b853d3dcd628c0fe54b656d7b"
+  integrity sha512-H8++CILlZQ2f2n+OvVmGyqMaV+UFKTRSTx9/3eIAxBg4d0rjeZogs6hgHlfADvEGNmrEyUBDpnX9+uHnDtwAHQ==
 
 react-native@0.61.5:
   version "0.61.5"
